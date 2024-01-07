@@ -1,7 +1,7 @@
 # My Profile
 
 ### 👋 Hey, what's up?
-#### Allan here, I'm Christian, husband and daddy passionate about my family! 🥰
+#### Allan here, I'm a Christian, husband and daddy passionate about my family! 🥰
 
 🚀 Currently a Senior UI/UX & Product Designer at Designa.
 <br/>💙 Looking to collaborate on front-end projects using React/Angular.
