@@ -3,7 +3,7 @@
 ### 👋 Hey, what's up?
 #### Allan here, I'm a Christian, husband and daddy passionate about my family! 🥰
 
-🚀 Currently a Senior UI/UX & Product Designer.
+🚀 Currently a UI/UX and Frontend.
 <br/>💙 Looking to collaborate on front-end projects using React.js/Next.js.
 <br/>😊 I can help you with, Interface Design and Product Design.
 <br/>👨‍💻 My stack: Figma, React.js and Typescript.
